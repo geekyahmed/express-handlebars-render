@@ -1,0 +1,17 @@
+{
+  "name": "auto-render-hbs",
+  "version": "1.0.0",
+  "description": "an express middleware for auto rendering handlebar files in the views directory",
+  "main": "renderHbs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "auto-render",
+    "handlebars",
+    "hbs",
+    "views"
+  ],
+  "author": "Bankole Ahmed",
+  "license": "ISC"
+}
