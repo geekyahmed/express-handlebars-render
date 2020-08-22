@@ -1,5 +1,5 @@
 {
-  "name": "auto-render-hbs",
+  "name": "express-handlebars-render",
   "version": "1.0.0",
   "description": "an express middleware for auto rendering handlebar files in the views directory",
   "main": "renderHbs.js",
