@@ -1,4 +1,4 @@
-# Express-Handlebars-Render
+## Express-Handlebars-Render
 
 Express-handlebars-render is an express middleware that allows developers to automatically render your handlebars file in your views directory.
 
